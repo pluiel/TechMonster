@@ -56,7 +56,7 @@
                             <button opaque="NO" contentMode="scaleAspectFit" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Q2Q-u9-gw4">
                                 <rect key="frame" x="71" y="663" width="273" height="100"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="22"/>
+                                <fontDescription key="fontDescription" name="MisakiGothic" family="MisakiGothic" pointSize="25"/>
                                 <state key="normal" title="冒険に行く" backgroundImage="gold_button.png">
                                     <color key="titleColor" red="0.20399230718612671" green="0.072214357554912567" blue="0.047030188143253326" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
@@ -114,7 +114,7 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YyM-DP-3tq">
                                 <rect key="frame" x="71" y="663" width="273" height="100"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="22"/>
+                                <fontDescription key="fontDescription" name="MisakiGothic" family="MisakiGothic" pointSize="25"/>
                                 <state key="normal" title="こうげき" backgroundImage="gold_button.png">
                                     <color key="titleColor" red="0.20399230718612671" green="0.072214357554912567" blue="0.047030188143253326" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
